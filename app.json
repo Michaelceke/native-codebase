@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sendMeMobileApp",
-    "slug": "sendMeMobileApp",
+    "name": "sendme-mobile",
+    "slug": "sendme-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
