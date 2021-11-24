@@ -17,7 +17,7 @@
     "rename": "npx react-native-rename-next",
     "clear-watch": "watchman watch-del-all && watchman shutdown-server",
     "lint": "eslint . --fix",
-    "prettier": "prettier --write",
+    "prettier": "prettier . --write",
     "android-debug-e2e-build": "detox build --configuration android.emu.debug",
     "android-debug-e2e-run": "detox test --configuration android.emu.debug",
     "ios-debug-e2e-build": "detox build --configuration ios.sim.debug ",
